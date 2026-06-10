@@ -47,7 +47,9 @@ Run all benchmarks using:
 ./gradlew benchmark
 ```
 
-Benchmark results are exported as CSV files.
+Benchmark results are exported as CSV files. When using IntelliJ to open the project, a run configuration is provided. It can be found at `.idea/runConfigurations/Benchmark.xml`.
+
+It is recommended to allocate at least 4GB of RAM when running, which can be done by using the `-Xmx4g` flag.
 
 ## Reproducibility
 
