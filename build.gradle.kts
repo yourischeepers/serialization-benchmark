@@ -26,6 +26,12 @@ benchmark {
     targets {
         register("main")
     }
+
+    configurations {
+        named("main") {
+            reportFormat = "csv"
+        }
+    }
 }
 
 allOpen {
