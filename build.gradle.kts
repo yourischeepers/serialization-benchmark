@@ -1,21 +1,33 @@
 plugins {
-    kotlin("jvm") version "2.1.20"
+    alias(libs.plugins.all.open)
+    alias(libs.plugins.kotlin.jvm)
+    alias(libs.plugins.kotlinx.benchmark)
+    alias(libs.plugins.kotlinx.serialization)
 }
 
 group = "com.yourischeepers.serialization"
-version = "1.0-SNAPSHOT"
+version = "1.0"
 
 repositories {
     mavenCentral()
 }
 
 dependencies {
-    testImplementation(kotlin("test"))
+    implementation(libs.gson)
+    implementation(libs.kotlinx.benchmark.runtime)
+    implementation(libs.kotlinx.serialization.json)
 }
 
-tasks.test {
-    useJUnitPlatform()
-}
 kotlin {
     jvmToolchain(21)
+}
+
+benchmark {
+    targets {
+        register("main")
+    }
+}
+
+allOpen {
+    annotation("org.openjdk.jmh.annotations.State")
 }
