@@ -1,0 +1,19 @@
+"Benchmark","Mode","Threads","Samples","Score","Score Error (99,9%)","Unit","Param: complexity","Param: size"
+"com.yourischeepers.serialization.benchmark.DeserializationBenchmark.gsonDeserialize","thrpt",1,5,"34692,462801","33,078990","ops/s",simple,100
+"com.yourischeepers.serialization.benchmark.DeserializationBenchmark.gsonDeserialize","thrpt",1,5,"3508,590014","7,271635","ops/s",simple,1000
+"com.yourischeepers.serialization.benchmark.DeserializationBenchmark.gsonDeserialize","thrpt",1,5,"354,999982","1,246260","ops/s",simple,10000
+"com.yourischeepers.serialization.benchmark.DeserializationBenchmark.gsonDeserialize","thrpt",1,5,"11415,228344","9,952871","ops/s",medium,100
+"com.yourischeepers.serialization.benchmark.DeserializationBenchmark.gsonDeserialize","thrpt",1,5,"1147,600852","7,433412","ops/s",medium,1000
+"com.yourischeepers.serialization.benchmark.DeserializationBenchmark.gsonDeserialize","thrpt",1,5,"114,010274","0,699053","ops/s",medium,10000
+"com.yourischeepers.serialization.benchmark.DeserializationBenchmark.gsonDeserialize","thrpt",1,5,"217,575559","0,409571","ops/s",complex,100
+"com.yourischeepers.serialization.benchmark.DeserializationBenchmark.gsonDeserialize","thrpt",1,5,"21,694904","0,053378","ops/s",complex,1000
+"com.yourischeepers.serialization.benchmark.DeserializationBenchmark.gsonDeserialize","thrpt",1,5,"2,096579","0,008461","ops/s",complex,10000
+"com.yourischeepers.serialization.benchmark.DeserializationBenchmark.kotlinxDeserialize","thrpt",1,5,"47112,604359","86,479281","ops/s",simple,100
+"com.yourischeepers.serialization.benchmark.DeserializationBenchmark.kotlinxDeserialize","thrpt",1,5,"4513,640523","40,163782","ops/s",simple,1000
+"com.yourischeepers.serialization.benchmark.DeserializationBenchmark.kotlinxDeserialize","thrpt",1,5,"449,104111","1,749675","ops/s",simple,10000
+"com.yourischeepers.serialization.benchmark.DeserializationBenchmark.kotlinxDeserialize","thrpt",1,5,"14811,681322","83,241561","ops/s",medium,100
+"com.yourischeepers.serialization.benchmark.DeserializationBenchmark.kotlinxDeserialize","thrpt",1,5,"1503,040539","5,266285","ops/s",medium,1000
+"com.yourischeepers.serialization.benchmark.DeserializationBenchmark.kotlinxDeserialize","thrpt",1,5,"150,186542","0,605187","ops/s",medium,10000
+"com.yourischeepers.serialization.benchmark.DeserializationBenchmark.kotlinxDeserialize","thrpt",1,5,"279,679600","1,830702","ops/s",complex,100
+"com.yourischeepers.serialization.benchmark.DeserializationBenchmark.kotlinxDeserialize","thrpt",1,5,"24,346009","0,078408","ops/s",complex,1000
+"com.yourischeepers.serialization.benchmark.DeserializationBenchmark.kotlinxDeserialize","thrpt",1,5,"2,285377","0,101907","ops/s",complex,10000

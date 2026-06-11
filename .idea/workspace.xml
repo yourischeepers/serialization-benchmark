@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1bc834b-7d68-40dc-8266-ec49da16fe40" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/results.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +88,7 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/youri.scheepers/IdeaProjects/serialization-benchmark/src/main/kotlin",
+    "last_opened_file_path": "/Users/youri.scheepers/IdeaProjects/serialization-benchmark",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -102,6 +104,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/main/kotlin" />
     </key>
     <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
@@ -130,7 +133,8 @@
       <workItem from="1781098686165" duration="155000" />
       <workItem from="1781098849761" duration="861000" />
       <workItem from="1781112840690" duration="550000" />
-      <workItem from="1781114070884" duration="9628000" />
+      <workItem from="1781114070884" duration="12088000" />
+      <workItem from="1781133085071" duration="692000" />
     </task>
     <servers />
   </component>

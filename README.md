@@ -79,3 +79,5 @@ src/main/kotlin
 ## Results
 
 The benchmark results and analysis are discussed in the accompanying research paper. This repository contains only the implementation used to generate the measurements.
+
+The results from the run described in the Reproducibility section can be found at the project root in the file named `results.csv`.
