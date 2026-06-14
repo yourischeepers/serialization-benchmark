@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1bc834b-7d68-40dc-8266-ec49da16fe40" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphs.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/graphs.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,10 +94,10 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/Users/youri.scheepers/IdeaProjects/serialization-benchmark/src/main/kotlin/Main.kt",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors",
+    "settings.editor.selected.configurable": "jupyter.general.settings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -134,7 +135,8 @@
       <workItem from="1781114070884" duration="12088000" />
       <workItem from="1781133085071" duration="692000" />
       <workItem from="1781356411207" duration="3914000" />
-      <workItem from="1781366426286" duration="7143000" />
+      <workItem from="1781366426286" duration="8889000" />
+      <workItem from="1781429637624" duration="6107000" />
     </task>
     <servers />
   </component>
